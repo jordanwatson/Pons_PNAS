@@ -1,6 +1,6 @@
 # Pons_PNAS
 Data for salmon bycatch component of Pons et al., PNAS
-
+Salmon bycatch and pollock catch data were aggregated by month and one degree lat-lon grids. Grid cells with fewer than three vessels were omitted to maintain confidentiality. 
 
 ## NOAA README
 
